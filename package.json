@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node-cron": "^3.0.3",
+    "puppeteer": "^23.7.0"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
